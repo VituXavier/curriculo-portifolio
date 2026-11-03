@@ -4,7 +4,7 @@ export const profile = {
   availability: "Remoto",
   photoAlt: "Foto de Victor José Xavier da Costa",
   summary:
-    "Programo há 3 anos. Desde outubro de 2024 trabalho em contratos freelance de checkout, cardápio e vitrine de vinhos. Faço interface em React, TypeScript, Next.js e Tailwind CSS. Também corrijo API em NestJS com Prisma e, no BuscaWine, em Laravel com PHP.",
+    "Programo há 3 anos. Desde outubro de 2024 trabalho em contratos freelance de checkout, cardápio e vitrine de vinhos. Faço interface em React, TypeScript, Next.js e Tailwind CSS. Também corrijo API em NestJS com Prisma e, no BuscaWine, em Laravel com PHP. Sigo atual no Chefemind, no front-end que desenvolvi e no suporte do código.",
   links: {
     linkedin: "https://www.linkedin.com/in/victor-xavier-dev",
     github: "https://github.com/VituXavier",
@@ -40,7 +40,7 @@ export const profile = {
       name: "Chefemind",
       role: "Desenvolvedor front-end",
       kind: "Freelance via Lintech",
-      period: "abr/2025 – início de 2026, suporte em andamento",
+      period: "abr/2025 – atual",
       href: "https://guriri-sushi.chefemind.com/?slug=guriri-sushi",
       linkLabel: "Ver demo",
       stack: [
